@@ -8,7 +8,7 @@
 
 **Joshua Kovacs**
 
-*Investigator*
+*Investigator/Firearm Instructor*
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-%40JoshK-CyberS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshK-CyberS) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyberspaceandjosh@gmail.com)
 
